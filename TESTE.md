@@ -118,7 +118,7 @@ Todas as requisições de GET devem suportar as querys abaixo:
 ### 5.0 Regras
 
 Para os produtos mais acessados as cores dos badge de porcentagem
- - Menor igual a 10 deve ser `#1B5E20`
+ - Menor igual a -10 deve ser `#1B5E20`
  - Menor igual a 0 deve ser  `#00C853`
  - Maior que 0 deve ser `#FFC107`
  - Maior que 5 deve ser `#FF980`
